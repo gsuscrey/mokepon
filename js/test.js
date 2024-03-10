@@ -13,22 +13,22 @@ function iniciarPoder() {
 }
 
   function selecionadoFuego() {
-    document.getElementById("mensaje1").innerHTML += "FIRE---"
+    document.getElementById("mensaje1").innerHTML += "FIRE---🔥"
   }
 
   function selecionadoAgua() {
  //  alert('Seleccionaste Agua')
-   document.getElementById("mensaje1").innerHTML += "WATER.."
+   document.getElementById("mensaje1").innerHTML += "WATER..💧"
   }
 
   function selecionadoTierra() {
 //      alert('Seleccionaste Tierra')
-  document.getElementById("mensaje1").innerHTML += "GROUND!!!"
+  document.getElementById("mensaje1").innerHTML += "GROUND!!! 🌱"
   }
 
   function selecionadoViento() {
 //      alert('Seleccionaste Tierra')
-  document.getElementById("mensaje1").innerHTML += "Wind>>>"
+  document.getElementById("mensaje1").innerHTML += "Wind>>>🌬️"
   }
 
   function reinicioTotal(){
